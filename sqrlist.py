@@ -10,7 +10,7 @@ Created on Tue May 26 17:07:16 2020
 def printvalue():
     l1=list()
     for i in range(1,21):
-        l1.append(i*2)
+        l1.append(i**2)
     print(l1)
 printvalue()
 
